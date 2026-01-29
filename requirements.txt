@@ -1,5 +1,0 @@
-discord
-pyfiglet
-time
-sys
-os
