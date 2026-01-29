@@ -1,0 +1,6 @@
+pip uninstall crypto pycrypto pycryptodome -y && pip install pycryptodome
+giành cho vps
+key: cailon
+pip install paho-mqtt
+pip install -r requirements.txt
+xóa file config.json = là chạy đc 
